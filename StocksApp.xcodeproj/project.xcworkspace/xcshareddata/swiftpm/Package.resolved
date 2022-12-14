@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "stocks-api",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Mufkhalif/stocks-api",
+      "state" : {
+        "branch" : "main",
+        "revision" : "1e681d11f46f24d21e4dff2f55a63329d3190cd0"
+      }
+    }
+  ],
+  "version" : 2
+}
